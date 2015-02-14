@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """The cat must have slept on the keyboard!!!
@@ -8,4 +7,4 @@ NERVOUS_AS = """
 //////////A long-tailed cat in a room full of rockin' chairs.,,,,,,,,,,
 """
 NERVOUS_AS = NERVOUS_AS.strip()
-NERVOUS_AS = NERVOUS_AS.rstrip('\,').lstrip('\/')
+NERVOUS_AS = NERVOUS_AS.rstrip('\r,').lstrip('\r/ ')
